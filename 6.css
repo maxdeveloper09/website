@@ -1,0 +1,210 @@
+.text {
+    color:yellow
+}
+.text2 {
+    color:red
+}
+.text3 {
+    color:blue;
+    font-size:28px;
+}
+.text4 {
+    color:blue;
+    font-size: 28px;
+}
+.lo {
+    color:yellow;
+    font-size: 30px;
+}
+.text5 {
+    color:fuchsia;
+    font-size:45px;
+}
+.tr1 {
+    color:aqua
+}
+.p1 {
+    color:green;
+    font-size:35px;
+}
+.p2 {
+    color:blue;
+    font-size:30px;
+    font-family:inherit;
+}
+.p4 {
+    color:black;
+    font-size:24px;
+}
+.p5 {
+    color:green;
+    font-size:50px
+}
+.text8 {
+    color:forestgreen;
+    font-size:25px;
+    font-family:initial;
+}
+.text9 {
+    color:black;
+    font-size:24px;
+    font-family:initial
+}
+.text10 {
+    color:aqua;
+    font-size:27px;
+    font-family:initial;
+}
+.text11 {
+    color:black;
+    font-size:24px;
+    font-family:initial
+}
+.photo {
+    border-radius: 100%;
+}
+.divhobbi {
+    background: red;
+    padding:40px 120px;
+    border: 5px solid blue;
+}
+.divname {
+    background: aqua;
+    padding:15px 70px;
+}
+.divbody {
+    max-width:100%;
+    margin:0;
+}
+.dividols {
+    background:blueviolet ;
+    padding: 30px;
+}
+.divdurov {
+    background: yellow;
+    padding: 30px;
+}
+.divmot {
+    background:burlywood;
+    padding:20px
+}
+.divzuc {
+    background: palevioletred;
+    padding: 30px;
+}
+.divbut {
+    background: green;
+    padding: 30px;
+}
+.photo4 {
+    border-radius: 10%;
+}
+.photo3 {
+    border-radius: 10%;
+}
+.photo2 {
+    border-radius: 10%;
+}
+.bio {
+    font-size: 25px;
+    color:blueviolet;
+}
+.bioit {
+    font-size: 25px;
+    color:green;
+}
+.info {
+    background: rgb(184, 109, 121);
+    padding: 20px;
+}
+.infop {
+    color:yellow;
+    font-size:30px;
+}
+.infoal {
+    background: blue;
+    padding:15px;
+}
+.achiv {
+    color:aqua;
+    font-size:30px;
+}
+.divac {
+    background: yellow;
+    padding:13px;
+}
+.divcity {
+    background:rgb(56, 228, 14);
+    padding:25px;
+}
+.achiv2 {
+    color:black;
+    font-size:20px;
+}
+.contact {
+    color:royalblue;
+    font-size:30px;
+}
+.vk {
+    color:yellow;
+    font-size:30px;
+}
+.divhelp {
+    background:darkviolet;
+    padding:15px;
+}
+.help {
+    color:red;
+    font-size:30px;
+}
+.cont {
+    border:7px solid black;
+    background:dimgray;
+    padding:10px 20px;
+}
+.divhelp2 {
+    background: aqua;
+    padding: 40px;
+}
+.clava {
+    padding: 0px 30px;
+}
+.progress {
+    padding: 30px 200px;
+    font-size:40px;
+}
+.clava3 {
+    padding: -30px 70px;
+    font-size:20px;
+}
+.divclava2 {
+    padding: -70px 35px;
+}
+.text20 {
+    font-size:30px;
+    color:blue
+}
+.donat {
+    font-size:25px;
+    color:gray
+}
+@media screen and (max-width:1000px) {
+    h7{
+        font-size:10px;
+    }
+}
+@media screen and (max-width:700px) {
+    h7{
+        font-size:20px
+    }
+}
+@media screen and (max-width:500px) {
+    h7{
+        font-size:20px
+    }
+}
+@media screen and (max-width:300px) {
+    h7{
+        font-size: 40px;
+    }
+}
